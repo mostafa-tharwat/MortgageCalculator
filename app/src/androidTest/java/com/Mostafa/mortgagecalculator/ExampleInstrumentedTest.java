@@ -1,4 +1,4 @@
-package com.example.mortgagecalculator;
+package com.Mostafa.mortgagecalculator;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.mortgagecalculator", appContext.getPackageName());
+        assertEquals("com.Mostafa.mortgagecalculator", appContext.getPackageName());
     }
 }

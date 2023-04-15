@@ -1,4 +1,4 @@
-package com.example.mortgagecalculator;
+package com.Mostafa.mortgagecalculator;
 
 import org.junit.Test;
 
