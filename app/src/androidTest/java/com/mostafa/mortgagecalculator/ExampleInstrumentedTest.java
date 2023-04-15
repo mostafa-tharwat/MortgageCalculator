@@ -1,4 +1,4 @@
-package com.Mostafa.mortgagecalculator;
+package com.mostafa.mortgagecalculator;
 
 import android.content.Context;
 
