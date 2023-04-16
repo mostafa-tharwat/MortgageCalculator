@@ -1,8 +1,10 @@
-package com.Mostafa.mortgagecalculator;
+package com.mostafa.mortgagecalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+
 
 public class MainActivity extends AppCompatActivity {
 

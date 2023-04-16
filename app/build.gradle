@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.Mostafa.mortgagecalculator'
+    namespace 'com.mostafa.mortgagecalculator'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.Mostafa.mortgagecalculator"
+        applicationId "com.mostafa.mortgagecalculator"
         minSdk 24
         targetSdk 32
         versionCode 1
